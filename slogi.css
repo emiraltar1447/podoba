@@ -1,0 +1,23 @@
+header{
+	height: 200px;
+	width: 950px;
+	background-color: aqua;
+}
+main{
+	height: 600px;
+	width: 450px;
+	background-color: yellow;
+}
+footer{
+	height:50px; 
+	width:950px;
+	background-color: lightblue; 
+}
+aside{
+	height: 600px;
+	width: 250px;
+	background-color: green;
+}
+.kvadrat{
+	display: flex;
+}
